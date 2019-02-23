@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>Hello Vue in CodeSandbox!</p>
+    <p>Hello Vue in Co de Sa ndbo x!</p>
     <h3>Install ed CLI Plugins</h3>
     <ul>
       <li>
